@@ -1,0 +1,6 @@
+print(20>10)
+print(10==20)
+print(10>=10)
+print(10!=20)
+print(50<20)
+print("mahmud"=="mahmud")
